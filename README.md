@@ -66,12 +66,12 @@
 
 #### 2. Install Dependencies:
 ```bash
-`pnpm install`
+pnpm install
 ```
 
 #### 3. Build Project:
 ```bash
-`pnpm build`
+pnpm build
 ```
 
 #### 4. Create .env:
